@@ -1,6 +1,4 @@
-## Hi :wave:
-
-### Whoami ???
+### Hi :wave: who am i?
 
 ```
 root@dev:~$ cat whoami.txt
