@@ -5,4 +5,4 @@ root@dev:~$ cat whoami.txt
 ```
 
 
-Im a hands-on programmer highly specialized in full-stack development, My languages are Python, JavaScript, PHP, Go, Java, and AWS. My expertise lies in crafting a wide range of web and software applications tailored to solve unique business problems.
+I am a hands-on programmer with over 10 years of experience specializing in full-stack development. I work primarily with Python, JavaScript, PHP, and AWS, and have extensive experience building a wide range of web and software applications designed to solve unique business challenges.
